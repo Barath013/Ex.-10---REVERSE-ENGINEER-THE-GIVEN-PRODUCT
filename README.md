@@ -35,7 +35,7 @@
 ![alt text](<Screenshot 2026-03-13 094138.png>)
 
 ### Output:
-![alt text](<Screenshot 2026-03-13 094138.png>)
+C:\m4ai\Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT\Screenshot (174).png
 ![alt text](<Screenshot 2026-03-13 111530.png>)
 
 ### Name:BARATH V
