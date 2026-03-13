@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 13-03-2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -35,7 +35,7 @@
 ![alt text](<Screenshot 2026-03-13 094138.png>)
 
 ### Output:
-C:\m4ai\Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT\Screenshot (174).png
+
 ![alt text](<Screenshot 2026-03-13 111530.png>)
 
 ### Name:BARATH V
