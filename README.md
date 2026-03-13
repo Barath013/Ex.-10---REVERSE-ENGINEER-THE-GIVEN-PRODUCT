@@ -32,12 +32,14 @@
 
 ## Input:
 
-kjhbwdkbjdkb clkajbdlkj dlajsbcjs 
+![alt text](<Screenshot 2026-03-13 094138.png>)
+
 ### Output:
+![alt text](<Screenshot 2026-03-13 094138.png>)
+![alt text](<Screenshot 2026-03-13 111530.png>)
 
-
-### Name:
-### Register Number:
+### Name:BARATH V
+### Register Number:212225240023
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
